@@ -3,4 +3,4 @@ first practice repository
 
 
 Hello all!
-I am learning python looking to wokr on ml in the future
+I am learning python looking to work on ml in the future
